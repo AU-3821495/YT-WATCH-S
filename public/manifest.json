@@ -1,15 +1,10 @@
 {
-  "name": "仙人Tube",
+  "name": "YT-WATCH-S",
   "short_name": "仙人Tube",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#111",
   "theme_color": "#ff0000",
   "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "192x192 512x512",
-      "type": "image/png"
-    }
   ]
 }
